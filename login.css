@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Space+Grotesk:wght@300..700&display=swap');
+
+:root{
+
+    --cor-principal: #F9F9FF;
+    --cor-fundo: #FFFFFF;
+    --cor-header: #E9E9F9;
+    --cor-texto-principal:  #464554;
+    --cor-titulo-principal: #000000;
+    --cor-secundaria: #4338CA;
+    --cor-fundo-icone: #DEE8FF;
+    --cor-cofirmacao: #006A61;
+    --cor-fundo-css: #89f5e780;
+    --cor-fundo-responsivo: #FFDCC3;
+    --cor-icone-responsivo: #5C2F00;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 1.1rem;
+
+}
